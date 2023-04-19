@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+padding: 0;
+}
+body{
+    
+    background-color: black;
+}
+.form-validation{
+    border: 2px solid orangered;
+    /* background-color: white; */
+ border-radius: 1rem;
+    height: 30vh;
+width: 522px;
+margin-left: 433px;
+margin-top: 150px;
+padding-top: 33px;
+padding-left: 150px;
+}
+.input{
+    margin-top: 13px;
+    font-size: 25px;
+} 
+#submit{
+ border-radius: 5px;
+ border: none;
+padding: 3px;
+font-size: 25px;
+margin-top: 13px;
+}
+h1{
+    color: white;
+}
+#PassError{
+    color:  red;
+}
+
+#NameError{
+    color:  red;
+}
